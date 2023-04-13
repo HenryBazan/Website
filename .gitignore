@@ -1,3 +1,3 @@
 mySecretkey.txt
 flaskEnv/
-.vscode/
+.vscode*
